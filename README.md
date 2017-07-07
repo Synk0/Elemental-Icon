@@ -11,23 +11,7 @@ updated often, you should clone this git repository and pull regularly to make
 sure you're always up-to-date:
 ```
 cd ~/.icons
-git clone https://github.com/keeferrourke/la-capitaine-icon-theme.git
-```
-Alternatively, there is an
-[AUR PKGBUILD](https://aur.archlinux.org/packages/la-capitaine-icon-theme-git)
-available, so if you're on Arch Linux, simply run:
-
-```
-yaourt -S la-capitaine-icon-theme-git
-```
-
-and keep yourself on the _bleeding edge_ of this repo :smile:
-
-Fedora and EPEL users can also use a third party Copr repository :
-
-```
-sudo dnf copr enable tcg/themes
-sudo dnf install la-capitaine-icon-theme
+git clone https://github.com/Synk0/Elemental-Icon.git
 ```
 
 ### Configuration
@@ -37,13 +21,6 @@ updates several system icons and icons used for mime-types.
 
 For best integration with your distro/desktop environment, please run
 `./configure` and follow the prompts.
-
-#### Use a dark GTK+ theme?
-La Capitaine doesn't ship with two distinct variants, because I wanted to keep
-the size of this project to a minimum.
-
-You'll need to run the configuration script to tell La Capitaine to update its
-directory structure to use the dark variant.
 
 ### Troubleshooting
 If something does not work as expected with La Capitaine, take a look at the
@@ -82,12 +59,12 @@ If there's an icon that's missing in this project, feel free to
 
 To make my life easier and to ensure that your requests are fullfilled faster,
 I expect a particular format for any new issues. Please
-[read the wiki](https://github.com/keeferrourke/la-capitaine-icon-theme/wiki/Submitting-Icon-Requests)
+[read the wiki](https://github.com/Synk0/Elemental-Icon/wiki/Submitting-Icon-Requests)
 before opening an issue.
 
 Community contributions are always welcome. Feel free to fork this project and
 submit bug fixes, or to contribute new icons or icon revisions.
-See [submitting pull requests](https://github.com/keeferrourke/la-capitaine-icon-theme/wiki/Submitting-Pull-Requests)
+See [submitting pull requests](https://github.com/Synk0/Elemental-Icon/wiki/Submitting-Pull-Requests)
 on the wiki.
 
 ### Roadmap
@@ -97,12 +74,10 @@ To-do:
  * Add design guidelines and documentation to the wiki
 
 ### Recommendations
-La Capitaine looks best with a theme based on either Material Design or macOS.
+La Capitaine/Elemental looks best with a theme based on either Material Design or macOS.
 Though I don't make GTK+ themes, I recommend
-[Arc-OSX](https://github.com/LinxGem33/OSX-Arc-White) for a unique macOS
+[Elemental](https://github.com/Synk0/Elemental) for a unique macOS
 inspired look. Have fun, and happy theming!
 
 ### Preview
 ![La Capitaine preview](preview.svg.png)
-<!-- ![La Capitaine preview](https://cdn.rawgit.com/keeferrourke/la-capitaine-icon-theme/master/preview.svg) -->
-
