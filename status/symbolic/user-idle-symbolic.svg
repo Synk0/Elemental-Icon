@@ -1,38 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg7384"
-   style="enable-background:new"
    height="16"
-   width="16"
+   id="svg7384"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="user-idle-symbolic.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview5797"
-     showgrid="false"
-     inkscape:zoom="41.1875"
-     inkscape:cx="3.6783005"
-     inkscape:cy="8"
-     inkscape:current-layer="svg7384" />
+   width="16.000048">
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -41,35 +17,62 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Paper Symbolic Icon Theme</dc:title>
+        <dc:title>elementary Symbolic Icon Theme</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <title
-     id="title8473">Paper Symbolic Icon Theme</title>
+     id="title9167">elementary Symbolic Icon Theme</title>
   <defs
      id="defs7386">
     <filter
-       id="filter7554"
-       style="color-interpolation-filters:sRGB">
+       color-interpolation-filters="sRGB"
+       id="filter7554">
       <feBlend
          id="feBlend7556"
          in2="BackgroundImage"
          mode="darken" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter7554-3">
+       color-interpolation-filters="sRGB"
+       id="filter7554-7">
       <feBlend
-         mode="darken"
+         id="feBlend7556-6"
          in2="BackgroundImage"
-         id="feBlend7556-5" />
+         mode="darken" />
     </filter>
   </defs>
-  <path
-     sodipodi:nodetypes="cssccccssccsccccccccccccc"
-     inkscape:connector-curvature="0"
-     d="m 3.7142855,2.5000003 c 0,0 -1.7142855,0 -1.7142855,1.6918677 l 0,5.075604 c 0,1.691867 1.7142855,1.691867 1.7142855,1.691867 L 7.9998284,10.959322 9.7141141,13.5 11.4284,10.959322 l 0.857314,1.7e-5 C 13.235428,10.959356 14,10.204766 14,9.267472 L 14,8.421538 14,6.72967 14,4.191868 C 14,2.5000003 12.312457,2.5000003 12.312457,2.5000003 Z m 3.6857143,0.8459339 1.4571428,0 0,2.5378018 0,1.691868 -1.7142857,0 -1.7142857,0 -0.8571429,0 0,-1.375599 0.8571429,0 1.9714286,0 z"
-     style="opacity:0.35;fill:#bebebe"
-     id="path3003" />
+  <g
+     id="layer9"
+     label="status"
+     style="display:inline"
+     transform="translate(-313.00015,402)">
+    <path
+       d="m 318.0002,-400 c -2.77,0 -5,2.23 -5,5 0,2.77 2.23,5 5,5 l 3.34375,0 2.65625,3 0,-3 c 2.77,0 5,-2.23 5,-5 0,-2.77 -2.23,-5 -5,-5 z"
+       id="path35486"
+       style="opacity:0.35;color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+  <g
+     id="layer10"
+     style="display:inline"
+     transform="translate(-313.00015,402)" />
+  <g
+     id="layer13"
+     style="display:inline"
+     transform="translate(-313.00015,402)" />
+  <g
+     id="layer14"
+     transform="translate(-313.00015,402)" />
+  <g
+     id="layer15"
+     style="display:inline"
+     transform="translate(-313.00015,402)" />
+  <g
+     id="g71291"
+     style="display:inline"
+     transform="translate(-313.00015,402)" />
+  <g
+     id="layer12"
+     style="display:inline"
+     transform="translate(-313.00015,402)" />
 </svg>

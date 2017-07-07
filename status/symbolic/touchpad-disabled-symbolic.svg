@@ -1,38 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg7384"
-   style="enable-background:new"
    height="16"
-   width="16"
+   id="svg7384"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="touchpad-disabled-symbolic.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview11"
-     showgrid="false"
-     inkscape:zoom="14.56198"
-     inkscape:cx="7.4672255"
-     inkscape:cy="4.8068056"
-     inkscape:current-layer="svg7384" />
+   width="16.0002">
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -41,35 +17,55 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Paper Symbolic Icon Theme</dc:title>
+        <dc:title>elementary Symbolic Icon Theme</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <title
-     id="title8473">Paper Symbolic Icon Theme</title>
+     id="title9167">elementary Symbolic Icon Theme</title>
   <defs
-     id="defs7386">
-    <filter
-       id="filter7554"
-       style="color-interpolation-filters:sRGB">
-      <feBlend
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
-  </defs>
+     id="defs7386" />
   <g
      id="layer9"
-     transform="matrix(0.75,0,0,0.75,-286.75,222.5)">
+     style="display:inline"
+     transform="translate(-353.0002,462)">
     <path
-       id="path10471"
-       style="opacity:0.35;fill:#bebebe"
-       d="m 386,-293 c -0.9998,0 -1,1 -1,1 l 0,11 c 0,0 0,1 1,1 l 9,0 0,-2 -2,0 0,-3 5,0 2,0 0,-7 c 0,-1 -1,-1 -1,-1 l -13,0 z m 1,2 11,0 0,5 -11,0 0,-5 z m 0,6 5,0 0,3 -5,0 0,-3 z"
-       inkscape:connector-curvature="0" />
+       d="m 356.03165,-462 c -1.66919,0 -3.03125,1.36206 -3.03125,3.03125 l 0,7.9375 c 0,1.66919 1.36206,3.03125 3.03125,3.03125 l 6.96875,0 0,-2 -2,0 0,-2 7,0 0,-6.96875 c 0,-1.66919 -1.36206,-3.03125 -3.03125,-3.03125 z m 0,2 8.9375,0 c 0.59578,0 1.03125,0.43547 1.03125,1.03125 l 0,5.96875 -11,0 0,-5.96875 c 0,-0.59578 0.43547,-1.03125 1.03125,-1.03125 z m -1.03125,8 5,0 0,2 -3.96875,0 c -0.59578,0 -1.03125,-0.43547 -1.03125,-1.03125 z"
+       id="rect5837-1"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.5;color:#bebebe;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
     <path
-       id="path2987-7-9-8-5-1-5"
-       style="fill:#bebebe;enable-background:new"
-       d="m 396,-284 0,1 c 0,0.27614 0.10029,0.53779 0.28125,0.71875 l 0.78125,0.78125 -0.78125,0.78125 C 396.10029,-280.53779 396,-280.27614 396,-280 l 0,1 1,0 c 0.27614,0 0.53779,-0.10029 0.71875,-0.28125 l 0.78125,-0.78125 0.78125,0.78125 C 399.46221,-279.10029 399.72386,-279 400,-279 l 1,0 0,-1 c 0,-0.27614 -0.10029,-0.53779 -0.28125,-0.71875 l -0.78125,-0.78125 0.78125,-0.78125 C 400.89971,-282.46221 401,-282.72386 401,-283 l 0,-1 -1,0 c -0.27614,0 -0.53779,0.10029 -0.71875,0.28125 l -0.78125,0.78125 -0.78125,-0.78125 C 397.53779,-283.89971 397.27614,-284 397,-284 l -1,0 z"
-       inkscape:connector-curvature="0" />
+       d="m 364.0004,-451 1.375,0 1.125,1.09375 1.09375,-1.09375 1.40625,0 0,1.46875 -1.09375,1.0625 1.09375,1.0625 0,1.40625 -1.4375,0 -1.0625,-1.0625 -1.0625,1.0625 -1.4375,0 0,-1.40625 1.0625,-1.0625 -1.0625,-1.0625 0,-1.46875 z"
+       id="path3761-2-3-5-4-8-9-8-0-9-3"
+       style="color:#bebebe;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible" />
   </g>
+  <g
+     id="layer10"
+     style="display:inline"
+     transform="translate(-353.0002,462)" />
+  <g
+     id="layer11"
+     transform="translate(-353.0002,462)" />
+  <g
+     id="layer13"
+     style="display:inline"
+     transform="translate(-353.0002,462)" />
+  <g
+     id="layer14"
+     transform="translate(-353.0002,462)" />
+  <g
+     id="layer15"
+     style="display:inline"
+     transform="translate(-353.0002,462)" />
+  <g
+     id="g71291"
+     style="display:inline"
+     transform="translate(-353.0002,462)" />
+  <g
+     id="g4953"
+     style="display:inline"
+     transform="translate(-353.0002,462)" />
+  <g
+     id="layer12"
+     style="display:inline"
+     transform="translate(-353.0002,462)" />
 </svg>

@@ -1,38 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg7384"
-   style="enable-background:new"
    height="16"
-   width="16"
+   id="svg7384"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="security-high-symbolic.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview10"
-     showgrid="false"
-     inkscape:zoom="41.1875"
-     inkscape:cx="3.6783005"
-     inkscape:cy="8"
-     inkscape:current-layer="svg7384" />
+   width="16">
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -41,30 +17,69 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Paper Symbolic Icon Theme</dc:title>
+        <dc:title>elementary Symbolic Icon Theme</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <title
-     id="title8473">Paper Symbolic Icon Theme</title>
+     id="title9167">elementary Symbolic Icon Theme</title>
   <defs
      id="defs7386">
     <filter
-       id="filter7554"
-       style="color-interpolation-filters:sRGB">
+       color-interpolation-filters="sRGB"
+       id="filter7554">
       <feBlend
          id="feBlend7556"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter7554-7">
+      <feBlend
+         id="feBlend7556-6"
          in2="BackgroundImage"
          mode="darken" />
     </filter>
   </defs>
   <g
      id="layer9"
-     transform="matrix(0.8,0,0,0.8,-434.4,318)">
+     label="status"
+     style="display:inline"
+     transform="translate(-553.0004,432)">
     <path
-       id="path7299"
-       style="color:#bebebe;text-indent:0;text-decoration:none;text-decoration-line:none;text-transform:none;block-progression:tb;fill:#bebebe;enable-background:accumulate"
-       d="m 553,-395 -6,1.9902 0,7 c 0,2.0716 1.5749,3.5218 2.9375,4.4688 1.3626,0.94693 3.0625,1.541 3.0625,1.541 0,0 1.7043,-0.61672 3.0625,-1.5723 1.3582,-0.95555 2.9375,-2.3932 2.9375,-4.4375 l 0,-7 -6,-1.9902 z m 0,2.1074 0,4.8926 4,0 0,1.9902 c 0,1.0143 -0.90506,1.9706 -2.0879,2.8027 -0.76991,0.54167 -1.4216,0.77276 -1.9121,0.97656 l 0,-5.7695 -4,0 0,-3.5664 4,-1.3262 z"
-       inkscape:connector-curvature="0" />
+       d="m 560.0004,-432 c -2.01566,0 -4,2.02594 -4,4 l 0,2 10,0 0,-2 c 0,-1.99486 -1.96353,-4 -4,-4 z m 0,2 2,0 c 1.15731,0 2,1.17009 2,2 l 0,2 -6,0 0,-2 c 0,-0.66713 0.80108,-2 2,-2 z"
+       id="path35268"
+       style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 555.0002,-425 0,2.25 2.25,0 0,0.5 -2.25,0 0,1.25 0,0.25 2.25,0 0,0.5 -2.25,0 0,1.5 2.25,0 0,0.5 -2.25,0 0,0.25 0,0.5 c 0,0.831 0.669,1.5 1.5,1.5 l 9,0 c 0.831,0 1.5,-0.669 1.5,-1.5 l 0,-0.5 0,-0.25 -2.25,0 0,-0.5 2.25,0 0,-1.5 -2.25,0 0,-0.5 2.25,0 0,-0.25 0,-1.25 -2.25,0 0,-0.5 2.25,0 0,-2.25 -12,0 z m 6,2 c 1.10457,0 2,0.67157 2,1.5 0,0.55405 -0.40427,1.02149 -1,1.28125 l 0,1.21875 c 0,0.554 -0.446,0.75 -1,0.75 -0.554,0 -1,-0.196 -1,-0.75 l 0,-1.21875 c -0.59573,-0.25976 -1,-0.7272 -1,-1.28125 0,-0.82843 0.89543,-1.5 2,-1.5 z"
+       id="path35270"
+       style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
+  <g
+     id="layer10"
+     style="display:inline"
+     transform="translate(-553.0004,432)" />
+  <g
+     id="layer13"
+     style="display:inline"
+     transform="translate(-553.0004,432)" />
+  <g
+     id="layer14"
+     transform="translate(-553.0004,432)" />
+  <g
+     id="layer15"
+     style="display:inline"
+     transform="translate(-553.0004,432)" />
+  <g
+     id="layer3"
+     style="display:inline"
+     transform="translate(-312.0002,-135)" />
+  <g
+     id="g41299"
+     transform="translate(-312.0002,-135)" />
+  <g
+     id="layer12"
+     style="display:inline"
+     transform="translate(-553.0004,432)" />
 </svg>

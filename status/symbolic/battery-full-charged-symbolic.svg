@@ -1,84 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg7384"
-   style="enable-background:new"
+   id="svg3004"
    height="16"
    width="16"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="battery-full-charged-symbolic.svg">
-  <sodipodi:namedview
-     pagecolor="#a1a1a1"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="633"
-     id="namedview11"
-     showgrid="false"
-     inkscape:zoom="22.627417"
-     inkscape:cx="-3.5511493"
-     inkscape:cy="8.103107"
-     inkscape:window-x="0"
-     inkscape:window-y="33"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384" />
+   version="1.1">
+  <defs
+     id="defs3006" />
   <metadata
-     id="metadata90">
+     id="metadata3009">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Paper Symbolic Icon Theme</dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <title
-     id="title8473">Paper Symbolic Icon Theme</title>
-  <defs
-     id="defs7386">
-    <filter
-       id="filter7554"
-       style="color-interpolation-filters:sRGB">
-      <feBlend
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
-  </defs>
-  <g
-     style="fill:#ffffff;fill-opacity:1"
-     id="g4250"
-     transform="matrix(0.44667783,0,0,0.44667783,18.943601,5.7245885)">
-    <path
-       style="fill:#bebebe;fill-opacity:1"
-       d="M 1.6035156,3.90625 C 1.2699962,3.90625 1,4.1772302 1,4.5097656 l 0,6.9804684 c 0,0.334022 0.2699962,0.603516 0.6035156,0.603516 l 11.7148434,0 c 0.333993,0 0.603516,-0.269996 0.603516,-0.603516 l 0,-1.238281 0.474609,0 C 14.730488,10.251953 15,9.9834201 15,9.6484375 L 15,6.4042969 C 15.000521,6.0702975 14.730484,5.7988281 14.396484,5.7988281 l -0.474609,0 0,-1.2890625 c 0,-0.3325354 -0.269497,-0.6035156 -0.603516,-0.6035156 z"
-       transform="matrix(1.9189285,0,0,1.9189285,-39.851416,-10.25719)"
-       id="path7-4-0-7-3-8-0-1-9-3"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssssscsscscsss" />
-    <g
-       style="fill:#ffffff;fill-opacity:1"
-       transform="matrix(0.02205965,0,0,0.02205965,-29.900002,-0.39149138)"
-       id="g3-9">
-      <g
-         style="fill:#ffffff;fill-opacity:1"
-         id="g5-4" />
-    </g>
-  </g>
+  <path
+     style="color:#bebebe;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     d="M 1,3 C 0.446,3 0,5.23 0,8 c 0,2.77 0.446,5 1,5 l 12,0 c 0.411065,0 0.759994,-1.2349 0.914062,-3 l 1.583985,0 C 15.775811,10 16,9.108 16,8 16,6.892 15.775811,6 15.498047,6 L 13.914062,6 C 13.759994,4.2349003 13.411065,3 13,3 Z M 1.5117188,4 12.488281,4 C 12.771711,4 13,5.784 13,8 c 0,2.216 -0.228289,4 -0.511719,4 L 1.5117188,12 C 1.2282889,12 1,10.216 1,8 1,5.784 1.2282889,4 1.5117188,4 Z M 13.958984,7 14.890625,7 C 14.951097,7 15,7.446 15,8 15,8.554 14.9511,9 14.890625,9 L 13.958984,9 C 13.972945,8.666049 14,8.355284 14,8 14,7.644716 13.97294,7.333951 13.958984,7 Z"
+     id="path3343" />
+  <path
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#73d216;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.84323651;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     d="M 11.746094,11 C 11.886235,11 12,9.662 12,8 12,6.338 11.886235,5 11.746094,5 L 2.2539062,5 C 2.1137652,5 2,6.338 2,8 c 0,1.662 0.1137653,3 0.2539062,3 z"
+     id="rect4151-6-5"
+     class="success" />
 </svg>
